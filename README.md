@@ -2,5 +2,10 @@
 Image converted to ascii
 This script working Linux,android,windows,Mac OS
 
-#installation
+#  INSTALLATIONS
+  PYTHON MODULE
+      PIL
+
+
+
 
