@@ -4,7 +4,9 @@ This script working Linux,android,windows,Mac OS
 
 #  INSTALLATIONS
   PYTHON MODULE
-      PIL
++      pillow
++      COLORAMA
++ You can install modules using requirement.txt
 
 
 
